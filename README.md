@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Burakkuauto
 - 👀 I’m interested in learning many subjects like programming, languages, science, engineering, and philosophy.
-- 🌱 I’m currently learning Python and Assembly. 
+- 🌱 I’m currently learning Assembly. 
